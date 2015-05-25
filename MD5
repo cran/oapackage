@@ -1,11 +1,11 @@
-47ef2bdd51376723494fa8dced8632c4 *DESCRIPTION
+631403afb144eb2b2eae5a34335b43bb *DESCRIPTION
 a5f9ed0f692a09a23e4e99bb220d979c *LICENSE
 6d28076e47f56d492e0a29aabf74b17e *NAMESPACE
 4a75778aaa03a2699834898c4c3fa166 *R/Doptimize.R
 625901f4812499b2c7354f1067d8fb80 *man/Defficiencies.Rd
 728385923f6633772b61dda26ddc8e65 *man/Doptimize.Rd
 24ca0093d71063cb22d2c5e587d2e08a *man/oapackage-package.Rd
-3faa9086ffd83228ab649cc90c02e103 *src/Deff.cpp
+fa3727d70ca2d7c80fd5b54afa4f7617 *src/Deff.cpp
 c10c12c6bceb9dd9287939e8a72e773f *src/Deff.h
 af212ececd02d742b59c65a04db73796 *src/Makevars
 ec1f3d8753ed7f479e0c32d024bffb99 *src/arrayproperties.cpp
@@ -13,7 +13,7 @@ ec1f3d8753ed7f479e0c32d024bffb99 *src/arrayproperties.cpp
 9e51c5a6f1fcf61091fcb1265fe97539 *src/arraytools.cpp
 9395c05dbd64364a14e0356f1c6f50a0 *src/arraytools.h
 632abe41036e4f32f9039d2b77d525ac *src/mathtools.cpp
-c4c2a8b87610de512e15dcb11f2acc62 *src/mathtools.h
+164257f7927c1e06172fd0f1face58a5 *src/mathtools.h
 0fcbd7f0ac8b3c1d9ea7bf96b42f742d *src/oaoptions.cpp
 ebba1318e9ec71b095b3313b48f4c47c *src/oaoptions.h
 14e0b537886bd2835c78e1824e9bd700 *src/printfheader.h
